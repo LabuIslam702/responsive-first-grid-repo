@@ -2,5 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Open+Sans:wght@600&family=Work+Sans:wght@400;500;600;700&display=swap');
 
 *{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
